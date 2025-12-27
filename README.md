@@ -4,7 +4,7 @@
 
 # **Terraform Examples**
 
-**Securely orchestrating VMs, containers, and Kubernetes at the edge using ZEDEDA & EVE-OS**
+**Securely orchestrating VMs, Containers, and Kubernetes at the edge using ZEDEDA & EVE-OS**
 
 [![ZEDEDA](https://img.shields.io/badge/Powered%20by-ZEDEDA-blue)](https://www.zededa.com)
 [![EVE-OS](https://img.shields.io/badge/Runtime-EVE--OS-green)](https://github.com/lf-edge/eve)
