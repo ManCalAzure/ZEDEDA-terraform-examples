@@ -118,7 +118,7 @@ Security is **not optional** - it is enforced by design.
 ## 🧪 Sample Brands and Hardware Models
 
 * ZEDEDA is hardware agnostic and supports x86, ARM, RISC(limited)
-* Sample Dell hardware model shown
+* Sample server hardware model shown & w/ SR-IOV
 * Intel NUC Model shown
 * Virtual EVE nodes (KVM)
 
