@@ -103,7 +103,7 @@ terraform apply
 * 🧾 RBAC & audit logging
 * 🌐 Network isolation per application
 
-Security is **not optional** — it is enforced by design.
+Security is **not optional** - it is enforced by design.
 
 ---
 
