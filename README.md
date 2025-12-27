@@ -2,7 +2,7 @@
 
 <img src="https://cdn-ilbjcaf.nitrocdn.com/JFDkYBqKTxfOnJhKzsDtcPuWMannnxlW/assets/images/optimized/rev-5297d6b/zededa.com/wp-content/uploads/2025/05/Zededa-Logo.svg" width="420"/>
 
-# **ZEDEDA Terraform Examples**
+# **Terraform Examples**
 
 **Securely orchestrating VMs, containers, and Kubernetes at the edge using ZEDEDA & EVE-OS**
 
