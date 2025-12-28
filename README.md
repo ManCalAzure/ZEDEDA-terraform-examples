@@ -66,7 +66,7 @@ This repository contains terraform code examples for the ZEDEDA provider.
 ├── 6-Instances-Deploy-sjc.tf
 ├── cloud-init-samples
 │   ├── cisco-config-sample.txt
-│   ├── congainer-sample.txt
+│   ├── container-sample.txt
 │   ├── ubuntu-24-sample.txt
 │   └── win-2025-sample.txt
 ├── provider.tf
