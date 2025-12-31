@@ -14,13 +14,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains terraform code examples for the ZEDEDA provider.
 
 ---
 
-## 🎯 What This Repo Contains
+## What This Repo Contains
 
 - ✅ 1-Infra-sjf.tf    - contains the ZEDEDA elements which tend to be more static in nature. Projects, Images, Datastores, EVE Images, Networks (For EVE management)
 - ✅ 2-Brand_Models.tf - shows how to create Brands and Models for hardware needed in the Models marketplace. 
@@ -31,7 +31,7 @@ This repository contains terraform code examples for the ZEDEDA provider.
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 ```text
 ┌─────────────────────────────┐
@@ -54,7 +54,7 @@ This repository contains terraform code examples for the ZEDEDA provider.
 
 ---
 
-## 🧩 Repository Structure
+## Repository Structure
 
 ```bash
 .
@@ -76,7 +76,7 @@ This repository contains terraform code examples for the ZEDEDA provider.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -96,18 +96,7 @@ terraform apply
 
 ---
 
-## 🔐 Security Model
-
-* 🔒 Measured boot & TPM attestation
-* 🔐 Disk-level encryption
-* 🧾 RBAC & audit logging
-* 🌐 Network isolation per application
-
-Security is **not optional** - it is enforced by design.
-
----
-
-## 🏗 Supported Workloads
+## Workloads
 
 * Virtual Machines (Linux / Windows)
 * Containers (Docker / OCI)
@@ -115,7 +104,7 @@ Security is **not optional** - it is enforced by design.
 
 ---
 
-## 🧪 Sample Brands and Hardware Models
+## Sample Brands and Hardware Models
 
 * ZEDEDA is hardware agnostic and supports x86, ARM, RISC(limited)
 * Sample server hardware model shown & w/ SR-IOV
@@ -124,7 +113,7 @@ Security is **not optional** - it is enforced by design.
 
 ---
 
-## 📚 References
+## References
 
 * ZEDEDA Documentation: [https://docs.zededa.com](https://docs.zededa.com)
 * EVE-OS: [https://github.com/lf-edge/eve](https://github.com/lf-edge/eve)
@@ -132,7 +121,7 @@ Security is **not optional** - it is enforced by design.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and discussions are welcome.
 
@@ -140,7 +129,7 @@ If you’re using this repo for a demo or PoC, **fork it and adapt freely**.
 
 ---
 
-## 🏷 License
+## License
 
 Apache 2.0 — see `LICENSE` file for details.
 
