@@ -183,7 +183,7 @@ resource "zedcloud_network" "demo_eve_net_port" {
   project_id = zedcloud_project.demo_zededa_project_1.id                          ###Project this network belongs to
 }
 
-###--------------------EDGE NODE MANAGEMENT NETWORK - Stativ example
+###--------------------EDGE NODE MANAGEMENT NETWORK - Static example
 resource "zedcloud_network" "demo_eve_net_port_static" {
   name  = "<YOUR-NETWORK-NAME>"                                                   ###User-defined network name
   title = "<YOUR-NETWORK-TITLE>"                                                  ###Display name shown in ZEDEDA UI
